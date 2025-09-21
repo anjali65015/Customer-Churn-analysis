@@ -4,12 +4,12 @@ This project analyzes customer churn in a telecommunications company to identify
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 The analysis explores the **Telco Customer Churn dataset**, focusing on customer demographics, contract types, service usage, and payment methods. The aim is to highlight high-risk customer segments and suggest actionable strategies to reduce churn.
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 ### Overall Churn Rate & Demographics
 - **Churn Rate:** ~26.54% (1,869 customers) churned, while 73.46% (5,174 customers) stayed.
@@ -34,7 +34,7 @@ The analysis explores the **Telco Customer Churn dataset**, focusing on customer
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 The analysis identifies the following **high-risk segments**:
 - Month-to-month contract customers  
 - New customers with short tenure  
@@ -51,20 +51,20 @@ The analysis identifies the following **high-risk segments**:
 
 ---
 
-## 📂 Project Files
+## Project Files
 - `TCA.ipynb` → Jupyter Notebook with full analysis  
 - `customer-churn.csv` → Dataset used  
 - `Telco Customer Churn analysis.pdf` → Detailed project report  
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - **Jupyter Notebook** for analysis and visualization  
 
 ---
 
-## 📖 Reference
+## Reference
 Based on the **Telco Customer Churn dataset** used for exploratory data analysis and predictive modeling.  
 
 ---
